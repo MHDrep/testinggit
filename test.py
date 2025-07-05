@@ -7,3 +7,6 @@ print ("MD 6th testings")
 
 
 print ("TESTING the online github")
+
+
+x = 10
